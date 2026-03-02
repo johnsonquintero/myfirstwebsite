@@ -1,0 +1,20 @@
+/* change page style */
+body {
+    background-color: blue;
+    color: rgb(255, 255, 255);
+
+}
+/* change heading font */
+h1{
+    color: #87CEEB;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h5{
+    color: turquoise;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
